@@ -21,7 +21,7 @@ This software uses **KeyHunt-Cuda** to scan Bitcoin puzzle ranges using your GPU
 
 ### 1. Clone this repo
 ```bash
-git clone https://github.com/yourusername/F4lc0nPool.git
+git clone https://github.com/bekli23/F4lc0nPool.git
 cd F4lc0nPool
 ```
 
@@ -118,7 +118,7 @@ make all
 
 - `client.py`: manages API key & syncs summary.
 - `main.py`: runs the actual scanner (KeyHunt).
-- `send.py`: syncs scanned ranges & stats to MySQL.
+- `send.py`: syncs scanned ranges & statsL.
 - `gpu.txt`: logs GPU info.
 - `range_log.txt`: tracks scanned hex ranges.
 
