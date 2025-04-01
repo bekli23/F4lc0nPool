@@ -1,7 +1,7 @@
 # 🧠 F4lc0nPool - GPU Bitcoin Puzzle Hunting
 
 Welcome to **F4lc0nPool**, a decentralized GPU-powered platform that unites users to collectively search for missing Bitcoin private keys, leveraging the speed of CUDA-based GPU computation.
-http://84.46.242.149/APP.PNG
+<a href="http://84.46.242.149/">F4lc0nPool - GPU Bitcoin Puzzle Hunting</a>
 ---
 <a href="https://freeimage.host/i/3RcUiAb"><img src="https://iili.io/3RcUiAb.md.png" alt="3RcUiAb.md.png" border="0"></a>
  
