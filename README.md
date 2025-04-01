@@ -48,7 +48,7 @@ This will ask for your API key and save it in `api.txt`.
 python main.py
 ```
 
-This will scan ranges using `KeyHunt-Cuda`, log progress, and sync to the server.
+This will scan ranges using `KeyHunt-Cuda`, log progress, and sync to the server demo user api 0cb2a47c424b1a22b5cea037a746282df6bd9e56e1071ad1e417a8387733ddea.
 
 ---
 
