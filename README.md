@@ -9,7 +9,7 @@ Welcome to **F4lc0nPool**, a decentralized GPU-powered platform that unites user
 
 This software uses **KeyHunt-Cuda** to scan Bitcoin puzzle ranges using your GPU and reports statistics back to the pool server. You retain control over your machine and private key access.
 
-### ✅ Requirements
+### ✅ Requirements (Linux)
 
 - Python 3.6+
 - `libgmp-dev` (`sudo apt install -y libgmp-dev`)
