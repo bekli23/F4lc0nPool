@@ -119,7 +119,7 @@ make all
 
 - `client.py`: manages API key & syncs summary.
 - `main.py`: runs the actual scanner (KeyHunt).
-- `send.py`: syncs scanned ranges & statsL.
+- `send.py`: syncs scanned ranges & stats.
 - `gpu.txt`: logs GPU info.
 - `range_log.txt`: tracks scanned hex ranges.
 
