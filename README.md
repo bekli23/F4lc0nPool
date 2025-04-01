@@ -35,15 +35,15 @@ cd F4lc0nPool
 
 Set range start/end and other parameters.
 
-### 4. First Time Setup
+### 4. GUI Mode
 
 ```bash
-python client.py
+python main_gui.py
 ```
 
 This will ask for your API key and save it in `api.txt`.
 
-### 5. Start Scanning
+### 5. Start Scanning Normal cmd
 
 ```bash
 python main.py
