@@ -3,7 +3,8 @@
 Welcome to **F4lc0nPool**, a decentralized GPU-powered platform that unites users to collectively search for missing Bitcoin private keys, leveraging the speed of CUDA-based GPU computation.
 http://84.46.242.149/APP.PNG
 ---
-
+![alt text]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](http://84.46.242.149/APP.PNG) "Logo Title Text 1")
+ 
 ## 🔧 Getting Started
 
 This software uses **KeyHunt-Cuda** to scan Bitcoin puzzle ranges using your GPU and reports statistics back to the pool server. You retain control over your machine and private key access.
